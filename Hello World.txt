@@ -1,0 +1,3 @@
+Hello, welcome to Python!
+It's fun and easy.
+Let's learn Python!
